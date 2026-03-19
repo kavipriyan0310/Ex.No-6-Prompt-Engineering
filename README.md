@@ -11,9 +11,9 @@ Compare outputs from different APIs.
 Analyze the response and the Output.
 
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
-# output:
+## output:
 
-[View The PDF](212225060119 prompt.pdf)
+[View The PDF](212225060119prompt.pdf)
 
 
 Result: 
