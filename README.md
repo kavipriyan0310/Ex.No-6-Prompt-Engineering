@@ -16,4 +16,7 @@ The aim is to understand how to request help from AI tools for tasks like writin
 [View The PDF](212225060119.pdf)
 
 
-Result: 
+# Result: 
+The Python program was successfully executed to perform sentiment analysis on the input text.
+The system accurately classified the sentiment as positive, negative, or neutral.
+Thus, the objective of generating insights using AI tools was achieved successfully.
