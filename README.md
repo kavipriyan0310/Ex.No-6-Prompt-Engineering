@@ -15,6 +15,7 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 <img width="1078" height="608" alt="image" src="https://github.com/user-attachments/assets/b05b85aa-4b7b-452c-bbc1-62d52ffe3f1e" />
 **output**
+
 [nltk_data] Downloading package vader_lexicon to /root/nltk_data...
 Generated Review:
 
@@ -27,6 +28,7 @@ Insight: The review is positive and suitable for marketing promotion.
 # Negative output:
 <img width="1208" height="566" alt="image" src="https://github.com/user-attachments/assets/a403817d-0ae1-444d-9822-c97513876267" />
 **output**
+
 Generated Review:
 
 This smartphone offers poor battery life and an unreliable AI camera that captures disappointing photos.
@@ -39,7 +41,11 @@ Insight: The review tone is neutral or negative.
 [nltk_data]   Package vader_lexicon is already up-to-date!
 # Neutral output:
 <img width="1282" height="560" alt="image" src="https://github.com/user-attachments/assets/0e796b17-eb93-46ea-9a96-f368d3eddd0a" />
+
+
 **output**
+
+
 Generated Review:
 
 This poor smartphone offers outstanding battery life and an intelligent AI camera that captures stunning photos..
